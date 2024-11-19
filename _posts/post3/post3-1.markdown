@@ -3,7 +3,6 @@ layout: post
 title:  "Recorrido de la Palmas"
 date:   2024-10-22 10:10:53 +0200
 author: "Rodrigo Gonzalez"
-image: mbappe-a-las-palmas-chicos-v0-0mqxq6eo3dzb1 - copia.jpg
 ---
 # Recorrido de Las Palmas en la Liga Española
 
