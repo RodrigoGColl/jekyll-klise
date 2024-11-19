@@ -3,6 +3,7 @@ layout: post
 title:  "Recorrido de la Palmas"
 date:   2024-10-22 10:10:53 +0200
 author: "Rodrigo Gonzalez"
+categories: jekyll update
 ---
 # Recorrido de Las Palmas en la Liga Española
 
