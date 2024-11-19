@@ -3,6 +3,7 @@ layout: post
 title: "Explorando la Asignatura SAD: Seguridad y Alta Disponibilidad"
 date: 2024-11-08
 author: "Rodrigo Gonzalez"
+categories: jekyll update
 ---
  
 ## Seguridad y Alta Disponibilidad (SAD)
